@@ -81,7 +81,3 @@ ENV/
 # experiment_data.jsonl
 # appendix_table_statistics.json
 # metadata.json
-
-# Generated figures (optional - comment out if you want to commit these)
-figures/
-*.png
